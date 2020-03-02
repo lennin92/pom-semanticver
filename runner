@@ -1,0 +1,1 @@
+python semver.py --digit major --prepend-commit-message :construction: --repo-url https://USERX:PASWDY@bitbucket.org/yayamed/yaya-api-boilerplate.git --repo-user USERX --repo-pass PASWDY
